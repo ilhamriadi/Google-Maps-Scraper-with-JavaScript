@@ -58,3 +58,9 @@ const query = "Laundry Jakarta";      // Search keyword
 const maxScrolls = 2;                 // Number of scrolls for more results
 const scrollPause = 2000;             // Pause between scrolls (milliseconds)
 ```
+
+## Credits & License
+
+**Original Source:** [SeptiawanAjiP](https://github.com/SeptiawanAjiP)
+
+**Modified by:** [ilhamriadi](https://github.com/ilhamriadi)
